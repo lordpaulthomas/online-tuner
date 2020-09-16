@@ -1,0 +1,85 @@
+
+#instrument_tuner td {
+  border: 1px solid #000;
+  line-height: 24px;
+}
+
+#settings_td {
+  width: 180px;
+  padding: 8px;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+#instrument_tuner table {
+  border-collapse: collapse;
+  background-color: #fcfeff;
+  border: 2px solid #000;
+  margin: 5px auto;
+  table-layout: auto;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: -internal-center;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+#instrument_tuner {
+  font-family: Roboto;
+}
+
+body {
+  font-family: 'Open Sans',sans-serif;
+  font-size: 14px;
+  color: #000;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+}
+.A {
+  background-color: #ffcbcb;
+}
+.As {
+  background-color: #ffe5cc;
+}
+.B {
+  background-color: #ffffcc;
+}
+.C {
+  background-color: #e5ffcc;
+}
+.Cs {
+  background-color: #ccffcc;
+}
+.D {
+  background-color: #ccffe5;
+}
+.Ds {
+  background-color: #ccffff;
+}
+.E {
+  background-color: #cce5ff;
+}
+.F {
+  background-color: #ccccff;
+}
+.Fs {
+  background-color: #e5ccff;
+}
+.G {
+  background-color: #ffccff;
+}
+.Gs {
+  background-color: #ffcce5;
+}
